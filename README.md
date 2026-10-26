@@ -1,1 +1,1 @@
-# ProyectoFinal_Estoc-sticos
+# ProyectoFinal_Estocasticos
